@@ -27,7 +27,7 @@ export default function Hero() {
           </div>
 
           <div className="col-12 col-md-8">
-            <img style={{ width: "100%", height: "100%" }} src="assets/bg.png" alt="" />
+            <img style={{ width: "100%", height: "100%" }} src="assets/bg.png" alt="loading picture" />
           </div>
         </div>
       </div>
